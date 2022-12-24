@@ -2,7 +2,7 @@
 Concatenate video pieces  
 视频合成器: 将多个视频片段合并  
 
-[简体中文](https://github.com/Keqing-Yuheng/VideoConcatenater/blob/main/README-English.md "README.md") | **English**
+[简体中文](https://github.com/Keqing-Yuheng/VideoConcatenater/blob/main/README.md "README.md") | **English**
 
 ## Instructions
 
